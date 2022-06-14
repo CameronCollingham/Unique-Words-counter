@@ -8,7 +8,7 @@ namespace Unique_Words_counter
     {
         /*
          * This program and related classes are written and modified by Cameron Collingham
-         * for the purpose of examination by Oncology Analytics
+         * for the purpose of being sample code
          *
          *
          */
